@@ -1,2 +1,1 @@
-#dif-calculations
-This is a school project done to practice python.
+This program will take an input of two points with their x and y values, and will calculate the distance btween them.
