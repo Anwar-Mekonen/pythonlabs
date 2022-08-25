@@ -1,6 +1,3 @@
-# Lab9A1 Calculate the distance between two points
-# This program will take an input of two points with their x and y values, and will calculate the distance between them.
-
 import math
 
 class DistanceCalculator(object):
